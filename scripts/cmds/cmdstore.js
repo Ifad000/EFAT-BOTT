@@ -10,7 +10,7 @@ module.exports.config = {
   role: 0,
   version: "0.1",
   description: {
-    en: "Commands Store of ArYan",
+    en: "Commands Store of Efat",
   },
   countDown: 3,
   category: "goatbot",
