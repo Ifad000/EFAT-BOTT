@@ -9,7 +9,7 @@ module.exports = {
     const keywords = ["bot", "bby"];
     const responses = {
       bot: "Hi, I'm here! How can I assist you? 🤖",
-      bby: "Hello there! What's up? 🥰",
+      bby: "Hello there! What's up? 🥺",
     };
 
     if (!event.body) return;
