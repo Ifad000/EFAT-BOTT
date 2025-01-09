@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "nayan",
 	prefix: false,
 	description: "",
-	category: "without prefix",
+	category: "!",
 	usages: "[tag]",
 	cooldowns: 5
 };
