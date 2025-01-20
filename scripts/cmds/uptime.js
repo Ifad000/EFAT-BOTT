@@ -1,1 +1,447 @@
-const _0x401ff4=_0x2cc0;(function(_0x198064,_0x31340b){const _0x69c01f=_0x2cc0,_0x3461d4=_0x198064();while(!![]){try{const _0x2d935a=-parseInt(_0x69c01f(0x102))/0x1*(parseInt(_0x69c01f(0x109))/0x2)+-parseInt(_0x69c01f(0xfc))/0x3*(-parseInt(_0x69c01f(0x117))/0x4)+parseInt(_0x69c01f(0x11f))/0x5*(-parseInt(_0x69c01f(0x10c))/0x6)+-parseInt(_0x69c01f(0x11b))/0x7*(parseInt(_0x69c01f(0x10b))/0x8)+parseInt(_0x69c01f(0x10a))/0x9+parseInt(_0x69c01f(0x121))/0xa+parseInt(_0x69c01f(0x126))/0xb*(parseInt(_0x69c01f(0x111))/0xc);if(_0x2d935a===_0x31340b)break;else _0x3461d4['push'](_0x3461d4['shift']());}catch(_0x59e57e){_0x3461d4['push'](_0x3461d4['shift']());}}}(_0x1cf4,0x1f257));function _0x1cf4(){const _0x234f56=['platform','https://bit.ly/3CjHKxN','5165TpnlgM','\x0a━❯\x20','55970aleBlG','Architecture:\x20','size','uptime','Free\x20Memory:\x20','937277TwvbeH','\x20||\x20','round','shows\x20uptime\x20of\x20bot.','system-mbc','OS:\x20','\x20MB\x0a━❯\x20Total(RAM):\x20','Use\x20{p}up\x20to\x20see\x20up\x20of\x20bot.','80043IsxSVa','numeric','\x20মিন্টি\x20','Hello\x20World!','\x20ঘন্টা,\x20','uptime\x20robot','31pJvtpF','\x20দিন,\x20','toLocaleDateString','𝗔𝗺𝗶𝗻𝘂𝗹\x20𝗦𝗼𝗿𝗱𝗮𝗿','floor','freemem','getStreamFromURL','6848jLkJcV','2103534tfHmHr','8EcNWHh','642MfEPZr','Total\x20Memory:\x20','utils','\x0a\x0a━━━━━━━━━━━━━━━━━━━━━━\x0a━❯\x20𝐄𝐅𝐀𝐓-\x20𝐁𝐎𝐓\x0a━❯\x20𝐁𝐎𝐓\x20𝐍𝐀𝐌𝐄:\x20𝐍𝐄𝐙𝐔𝐊𝐎-𝐗-𝐁𝐁𝐘\x0a━❯\x20𝐁𝐎𝐓\x20𝐏𝐑𝐄𝐅𝐈𝐗:【-】\x0a━❯\x20','\x20সেকেন্ড','24bnfogN','en-US','exports','rss','arch','\x20GB','28jmGtUu','1.0','\x0a━❯\x20AI\x20Usage:\x200.0\x0a━❯\x20RAM\x20Usage:\x20','Cores:\x20','1765778VmHiVf','totalmem'];_0x1cf4=function(){return _0x234f56;};return _0x1cf4();}function _0x2cc0(_0x15d7a2,_0x2e9fdb){const _0x1cf48f=_0x1cf4();return _0x2cc0=function(_0x2cc067,_0x1de69f){_0x2cc067=_0x2cc067-0xf9;let _0x22a4e8=_0x1cf48f[_0x2cc067];return _0x22a4e8;},_0x2cc0(_0x15d7a2,_0x2e9fdb);}function hi(){const _0x2dfa5a=_0x2cc0;console['log'](_0x2dfa5a(0xff));}hi(),module[_0x401ff4(0x113)]={'config':{'name':'up','aliases':[_0x401ff4(0x124),'upt'],'version':_0x401ff4(0x118),'author':_0x401ff4(0x105),'role':0x0,'shortDescription':{'en':_0x401ff4(0x101)},'longDescription':{'en':_0x401ff4(0x129)},'category':_0x401ff4(0x12a),'guide':{'en':_0x401ff4(0xfb)}},'onStart':async function({api:_0x5f58e5,message:_0x5e4643,threadsData:_0x186e60}){const _0x35feb3=_0x401ff4,_0x1d23ec=require('os'),_0x5e0240=_0x1d23ec[_0x35feb3(0x124)](),_0x4cc43b=Math['floor'](_0x5e0240/(0xe10*0x18)),_0x3f30c3=Math[_0x35feb3(0x106)](_0x5e0240%(0xe10*0x18)/0xe10),_0x1d7cae=Math[_0x35feb3(0x106)](_0x5e0240%0xe10/0x3c),_0x2035cc=Math['floor'](_0x5e0240%0x3c),_0x5b49fc=new Date(),_0x26f908={'year':'numeric','month':_0x35feb3(0xfd),'day':'numeric'},_0x58d67c=_0x5b49fc[_0x35feb3(0x104)]('en-US',_0x26f908),_0x4d32c6=_0x5b49fc['toLocaleTimeString'](_0x35feb3(0x112),{'timeZone':'Asia/Dhaka','hour12':!![]}),_0x5c5688=_0x35feb3(0xf9)+_0x1d23ec[_0x35feb3(0x11d)]()+'\x20'+_0x1d23ec['release'](),_0x1377e8=_0x35feb3(0x11a)+_0x1d23ec['cpus']()['length'],_0x3aee23=_0x35feb3(0x122)+_0x1d23ec[_0x35feb3(0x115)](),_0x5022a6=_0x35feb3(0x10d)+Math[_0x35feb3(0x128)](_0x1d23ec[_0x35feb3(0x11c)]()/(0x400*0x400*0x400))+_0x35feb3(0x116),_0x141052=_0x35feb3(0x125)+Math['round'](_0x1d23ec[_0x35feb3(0x107)]()/(0x400*0x400*0x400))+_0x35feb3(0x116),_0x4bf7c4='UPTIME:\x20'+_0x4cc43b+_0x35feb3(0x103)+_0x3f30c3+_0x35feb3(0x100)+_0x1d7cae+_0x35feb3(0xfe)+_0x2035cc+_0x35feb3(0x110),_0x4831b5='💖𝐔𝐏𝐓𝐈𝐌𝐄-𝐑𝐎𝐁𝐎𝐓💖\x0a\x0a━❯\x20'+_0x4bf7c4+_0x35feb3(0x10f)+_0x5c5688+_0x35feb3(0x120)+_0x1377e8+'\x0a━❯\x20Total\x20Users:\x20'+_0x186e60[_0x35feb3(0x123)]+'\x0a━❯\x20Total\x20Threads:\x20'+_0x186e60[_0x35feb3(0x123)]+_0x35feb3(0x119)+Math[_0x35feb3(0x128)](process['memoryUsage']()[_0x35feb3(0x114)]/(0x400*0x400))+_0x35feb3(0xfa)+Math[_0x35feb3(0x128)](_0x1d23ec['totalmem']()/(0x400*0x400*0x400))+'\x20GB\x0a━❯\x20Current(RAM):\x20'+Math['round'](_0x1d23ec[_0x35feb3(0x107)]()/(0x400*0x400*0x400))+'\x20GB\x0a━❯\x20Ping:\x2015\x20ms\x0a━❯\x20Uptime(Seconds):\x20'+Math[_0x35feb3(0x106)](process['uptime']())+'\x0a━━━━━━━━━━━━━━━━━━━━━━\x0a【\x20'+_0x58d67c+_0x35feb3(0x127)+_0x4d32c6+'\x20】';_0x5e4643['reply']({'body':_0x4831b5,'attachment':await global[_0x35feb3(0x10e)][_0x35feb3(0x108)](_0x35feb3(0x11e))});}};
+const moment = require('moment-timezone');
+
+const fs = require('fs');
+
+const path = require('path');
+
+const os = require('os');
+
+const si = require('systeminformation');
+
+const { performance } = require('perf_hooks');
+
+
+
+// Assuming config.json is in the same directory as info.js
+
+const configPath = path.resolve(__dirname, '../config.json'); // Adjust the path based on your project structure
+
+
+
+// Read and parse config.json
+
+let config = {};
+
+try {
+
+    config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+
+} catch (error) {
+
+    console.error("Error reading config.json:", error.message);
+
+    // Handle the error, maybe exit or provide default config values
+
+}
+
+
+
+module.exports = {
+
+    config: {
+
+        name: "up",
+
+        aliases: ["uptime1"],
+
+        version: "1.5", 
+
+        author: "Itz Aryan",
+
+        countDown: 5,
+
+        role: 0, 
+
+        shortDescription: {
+
+            vi: "Cung cấp thông tin bot và hệ thống",
+
+            en: "Provides bot and system information"
+
+        },
+
+        longDescription: {
+
+            vi: "Lệnh này cung cấp thông tin chi tiết về bot và hệ thống bao gồm thời gian hoạt động, thông tin hệ điều hành, CPU, bộ nhớ, đĩa, mạng và các thông tin bổ sung khác.",
+
+            en: "This command provides detailed information about the bot and system including uptime, OS details, CPU, memory, disk, network, and additional settings."
+
+        },
+
+        category: "owner",
+
+        guide: {
+
+            vi: "Sử dụng lệnh này để nhận thông tin chi tiết về bot và hệ thống của bạn.",
+
+            en: "Use this command to get detailed information about your bot and system."
+
+        },
+
+        envConfig: config 
+
+    },
+
+    onStart: async function ({ api, event, usersData, threadsData }) {
+
+        const botName = config.nickNameBot || "☞︎︎︎✍︎ 𝙴 𝙵 𝙰 𝚃 ✿︎𝙱☺︎︎𝚃 ♕︎"; // Fetching from config
+
+        const botPrefix = config.prefix || ".";
+
+        const botVersion = "1.5"; 
+
+        const botDescription = "This bot can help you with various tasks including managing the server, providing information, and more."; // Manually set bot description
+
+
+
+        const now = moment().tz(config.timeZone || 'Asia/Jakarta'); // Fetching from config
+
+        const date = now.format('MMMM Do YYYY');
+
+        const time = now.format('h:mm:ss A');
+
+
+
+        // Manually set image links
+
+        const links = [
+
+            "https://bit.ly/3DYw8ka"
+
+        ];
+
+        const link = links[Math.floor(Math.random() * links.length)];
+
+
+
+        // System uptime calculation
+
+        const systemUptime = os.uptime();
+
+        const systemUptimeString = formatUptime(systemUptime);
+
+
+
+        // Process uptime (since bot started)
+
+        const processUptime = process.uptime();
+
+        const processUptimeString = formatUptime(processUptime);
+
+
+
+        // OS information
+
+        const osInfo = await si.osInfo();
+
+        const osArchitecture = os.arch();
+
+        const osHostname = os.hostname();
+
+        const osHomeDir = os.homedir();
+
+
+
+        // CPU information
+
+        let cpuCurrentSpeed = {};
+
+        let cpuLoad = {};
+
+        let cpuUsage = 'CPU information not available';
+
+        try {
+
+            cpuCurrentSpeed = await si.cpuCurrentspeed();
+
+            cpuLoad = await si.currentLoad();
+
+            cpuUsage = `User ${cpuLoad.currentload_user ? cpuLoad.currentload_user.toFixed(2) : 'N/A'}%, System ${cpuLoad.currentload_system ? cpuLoad.currentload_system.toFixed(2) : 'N/A'}%`;
+
+        } catch (error) {
+
+            console.error("Error fetching CPU information:", error.message);
+
+        }
+
+        const cpuManufacturer = cpuCurrentSpeed.manufacturer || "Unknown";
+
+
+
+        // CPU Temperature
+
+        const cpuTemp = await si.cpuTemperature();
+
+        const cpuTempString = `${cpuTemp.main} °C`; // Adjust according to your preferred formatting
+
+
+
+        // GPU information
+
+        let gpuInfo = '';
+
+        try {
+
+            const graphics = await si.graphics();
+
+            gpuInfo = `GPU: ${graphics.controllers[0].model}, VRAM: ${graphics.controllers[0].vram} GB`;
+
+        } catch (error) {
+
+            console.error("Error fetching GPU information:", error.message);
+
+            gpuInfo = 'GPU information not available';
+
+        }
+
+
+
+        // Memory information
+
+        const memInfo = await si.mem();
+
+        const totalMemory = (memInfo.total / (1024 ** 3)).toFixed(2);
+
+        const freeMemory = (memInfo.free / (1024 ** 3)).toFixed(2);
+
+        const usedMemory = (memInfo.used / (1024 ** 3)).toFixed(2);
+
+
+
+        // Disk information
+
+        const diskInfo = await si.fsSize();
+
+        const diskType = diskInfo[0].type;
+
+        const diskSpace = `Total ${diskInfo[0].size}, Used ${diskInfo[0].used}, Available ${diskInfo[0].available}`;
+
+
+
+        // Network interfaces
+
+        const networkInterfaces = os.networkInterfaces();
+
+        const networkInfo = Object.keys(networkInterfaces).map(name => `${name}: ${networkInterfaces[name][0].address} (IPv${networkInterfaces[name][0].family}, ${networkInterfaces[name][0].internal ? 'internal' : 'external'})`).join('\n');
+
+
+
+        // System load
+
+        const load = os.loadavg();
+
+        const loadAverage = `Load Average: ${load[0].toFixed(2)}, ${load[1].toFixed(2)}, ${load[2].toFixed(2)}`;
+
+
+
+        // Ping test
+
+        const start = performance.now();
+
+        await new Promise(resolve => setTimeout(resolve, 100));
+
+        const end = performance.now();
+
+        const ping = (end - start).toFixed(2);
+
+
+
+        const allUsers = await usersData.getAll();
+
+      const allThreads = await threadsData.getAll();
+
+
+
+    // Check if anti-inbox is enabled
+
+        const antiInboxStatus = config.antiInbox ? "Enabled" : "Disabled";
+
+
+
+        // Language settings
+
+        const language = config.language || "en";
+
+
+
+        // Admin-only mode
+
+        let adminOnlyStatus = "Disabled";
+
+        if (config.adminOnly && config.adminOnly.enable) {
+
+            adminOnlyStatus = "Enabled";
+
+        }
+
+
+
+        // Admin bots list
+
+        let adminBotsList = 'N/A';
+
+        if (config.adminBot && Array.isArray(config.adminBot)) {
+
+            adminBotsList = config.adminBot.join(", ");
+
+        }
+
+
+
+        // Whitelist mode
+
+        let whitelistStatus = "Disabled";
+
+        let whitelistIds = "";
+
+        if (config.whiteListMode && config.whiteListMode.enable) {
+
+            whitelistStatus = "Enabled";
+
+            whitelistIds = config.whiteListMode.whiteListIds.join(", ");
+
+        }
+
+
+
+        const replyMessage = `
+
+╭─✦ 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 ✦─
+
+├‣ 🤖 Bot Name: ${botName}
+
+├‣ ⏰ Bot Prefix: ${botPrefix}
+
+├‣ 📌 Bot Version: ${botVersion}
+
+├‣ 📄 Bot Description: ${botDescription}
+
+╰───────────⧕
+
+╭─✦ 𝗨𝗣𝗧𝗜𝗠𝗘 𝗜𝗡𝗙𝗢 ✦─
+
+├‣ 🕒 System Uptime: ${systemUptimeString}
+
+├‣ ⏱ Process Uptime: ${processUptimeString}
+
+╰───────────⧕
+
+╭─✦ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗙𝗢✦─
+
+├‣ 📡 OS: ${osInfo.platform} ${osInfo.release}
+
+├‣ 🖥 CPU: ${cpuCurrentSpeed.max ? cpuCurrentSpeed.max.toFixed(2) : 'N/A'} GHz (${cpuCurrentSpeed.cores || 'N/A'} cores)
+
+├‣ 🌡 CPU Temperature: ${cpuTempString}
+
+├‣ 📈 Total Memory: ${totalMemory} GB
+
+├‣ 📉 Free Memory: ${freeMemory} GB
+
+├‣ 📊 RAM Usage: ${usedMemory} GB
+
+├‣ 👥 Total Users: ${allUsers.length} members
+
+├‣ 📂 Total Threads: ${allThreads.length} Groups
+
+├‣ 🔄 Ping: ${ping} ms
+
+├‣ 🔧 Load Average: ${loadAverage}
+
+├‣ ${gpuInfo}
+
+├‣ 💽 Disk Type: ${diskType}
+
+├‣ 💾 Disk Space: ${diskSpace}
+
+├‣ 🔹 Hostname: ${osHostname}
+
+├‣ 🏠 Home Directory: ${osHomeDir}
+
+╰‣ 🌐 Network Interfaces:\n${networkInfo}
+
+╭─✦ 𝗢𝗧𝗛𝗘𝗥 𝗜𝗡𝗙𝗢✦─
+
+├‣ 📥 Anti-Inbox: ${antiInboxStatus}
+
+├‣ 🌐 Language: ${language}
+
+├‣ 🔒 Admin-Only Mode: ${adminOnlyStatus}
+
+├‣ 🤖 Admin Bots: ${adminBotsList}
+
+├‣ ⚪ Whitelist Mode: ${whitelistStatus}
+
+├‣ ⚪ Whitelist IDs: ${whitelistIds}
+
+├‣ ⚙ Architecture: ${osArchitecture}
+
+├‣ 💻 CPU Model: ${cpuCurrentSpeed.model || 'N/A'}
+
+├‣ 🛠 CPU Load: ${cpuUsage}
+
+├‣ ⚙ CPU Manufacturer: ${cpuManufacturer}
+
+╰─────────────⧕`;
+
+
+
+        await api.sendMessage({
+
+            body: replyMessage,
+
+        }, event.threadID);
+
+
+
+        // Sending image attachment
+
+        await api.sendMessage({
+
+            attachment: await global.utils.getStreamFromURL(link),
+
+        }, event.threadID);
+
+    },
+
+    onChat: async function ({ event, message, getLang }) {
+
+        if (event.body && event.body.toLowerCase() === "uptime") {
+
+            this.onStart({ message });
+
+        }
+
+    }
+
+};
+
+
+
+function formatUptime(seconds) {
+
+    const days = Math.floor(seconds / (3600 * 24));
+
+    const hours = Math.floor((seconds % (3600 * 24)) / 3600);
+
+    const minutes = Math.floor((seconds % 3600) / 60);
+
+    const secondsLeft = Math.floor(seconds % 60);
+
+
+
+    const uptimeStringParts = [];
+
+    if (days > 0) uptimeStringParts.push(`${days} days`);
+
+    if (hours > 0) uptimeStringParts.push(`${hours} hours`);
+
+    if (minutes > 0) uptimeStringParts.push(`${minutes} minutes`);
+
+    if (secondsLeft > 0) uptimeStringParts.push(`${secondsLeft} seconds`);
+
+
+
+    return uptimeStringParts.join(', ');
+
+          }
