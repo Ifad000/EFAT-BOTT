@@ -1,13 +1,28 @@
-# Exported from Render on 2025-01-29T21:59:29Z
-services:
-- type: web
-  name: EFAT-BOT
-  runtime: node
-  repo: https://github.com/Efat27/EFAT-BOT
-  plan: free
-  region: oregon
-  buildCommand: npm install
-  startCommand: node index.js
-  previews:
-    generation: automatic
-version: "1"
+name: Node.js CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm install
+    - run: npm start
