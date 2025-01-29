@@ -1,0 +1,13 @@
+# Exported from Render on 2025-01-29T21:59:29Z
+services:
+- type: web
+  name: EFAT-BOT
+  runtime: node
+  repo: https://github.com/Efat27/EFAT-BOT
+  plan: free
+  region: oregon
+  buildCommand: npm install
+  startCommand: node index.js
+  previews:
+    generation: automatic
+version: "1"
